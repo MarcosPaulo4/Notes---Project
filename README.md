@@ -1,2 +1,2 @@
-# chakra-project
+#Note - Project
  notes system
